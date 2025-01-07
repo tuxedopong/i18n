@@ -12,5 +12,17 @@
     "ts-loader": "9.4.2",
     "typescript": "5.1"
   },
-  "dependencies": {}
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stadiumcompete/i18n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stadiumcompete/i18n/issues"
+  },
+  "homepage": "https://github.com/stadiumcompete/i18n#readme"
 }
