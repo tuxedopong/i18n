@@ -1,48 +1,14 @@
 import { LANGUAGE } from "../languages";
 import { TRANSLATION_MAP } from "../types";
+import { T_GENERAL } from "./general";
+import { T_STADIUM } from "./stadium";
 
 export const T: Record<string, TRANSLATION_MAP> = {
   // General Terms
-  GENERAL_TOURNAMENT: {
-    [LANGUAGE.EN]: "Tournament",
-    [LANGUAGE.ES]: "Torneo",
-  },
-  GENERAL_LEAGUE: {
-    [LANGUAGE.EN]: "League",
-    [LANGUAGE.ES]: "Liga",
-  },
-  GENERAL_ANY_SPORT: {
-    [LANGUAGE.EN]: "Any Sport",
-  },
-  GENERAL_ANYWHERE: {
-    [LANGUAGE.EN]: "Anywhere",
-  },
-  GENERAL_TABLE_TENNIS: {
-    [LANGUAGE.EN]: "Table Tennis",
-    [LANGUAGE.ES]: "Tenis de Mesa",
-    [LANGUAGE.FR]: "Tenis de Table",
-  },
-  GENERAL_PLAYERS: {
-    [LANGUAGE.EN]: "Players",
-    [LANGUAGE.ES]: "Jugadores",
-  },
-  GENERAL_DRAWS: {
-    [LANGUAGE.EN]: "Draws",
-  },
-  GENERAL_MATCHES: {
-    [LANGUAGE.EN]: "Matches",
-    [LANGUAGE.ES]: "Partidos",
-  },
-  GENERAL_TEAMS: {
-    [LANGUAGE.EN]: "Teams",
-    [LANGUAGE.ES]: "Equipos",
-  },
+  ...T_GENERAL,
 
   // STADIUM-specific
-  STADIUM_TAGLINE: {
-    [LANGUAGE.EN]: "For Competition",
-    [LANGUAGE.ES]: "Para competir",
-  },
+  ...T_STADIUM,
 
   // View: Search
   SEARCH_HEADER_GENERIC: {
@@ -65,5 +31,11 @@ export const T: Record<string, TRANSLATION_MAP> = {
   // View: Tournament
   TOURNAMENT_OVERVIEW: {
     [LANGUAGE.EN]: "Overview",
+  },
+  TOURNAMENT_ENTRY_FORM: {
+    [LANGUAGE.EN]: "Entry Form",
+  },
+  TOURNAMENT_ENTER_PIN_TO_REPORT: {
+    [LANGUAGE.EN]: "Enter PIN code to report scores",
   },
 };

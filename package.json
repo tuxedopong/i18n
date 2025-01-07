@@ -1,6 +1,6 @@
 {
   "name": "@stadiumcompete/i18n",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Translation copy for STADIUM - the competition platform for racket sports.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,9 +12,6 @@
     "prettier": "2.8.7",
     "ts-loader": "9.4.2",
     "typescript": "5.1"
-  },
-  "directories": {
-    "lib": "lib"
   },
   "repository": {
     "type": "git",
