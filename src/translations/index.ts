@@ -38,4 +38,7 @@ export const T: Record<string, TRANSLATION_MAP> = {
   TOURNAMENT_ENTER_PIN_TO_REPORT: {
     [LANGUAGE.EN]: "Enter PIN code to report scores",
   },
+  TOURNAMENT_TEST: {
+    [LANGUAGE.EN]: "Test2",
+  },
 };
