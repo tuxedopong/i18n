@@ -2,16 +2,15 @@
   "name": "@stadiumcompete/i18n",
   "version": "0.0.0",
   "description": "Translation copy for STADIUM - the competition platform for racket sports.",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc && tsc --watch"
   },
   "devDependencies": {
-    "@types/uuid": "^9.0.1",
-    "prettier": "^2.8.7",
-    "ts-loader": "^9.4.2",
+    "prettier": "2.8.7",
+    "ts-loader": "9.4.2",
     "typescript": "5.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
