@@ -1,9 +1,8 @@
 import { LANGUAGE } from "../languages";
-import { TRANSLATION_MAP } from "../types";
 import { T_GENERAL } from "./general";
 import { T_STADIUM } from "./stadium";
 
-export const T: Record<string, TRANSLATION_MAP> = {
+export const T = {
   // General Terms
   ...T_GENERAL,
 

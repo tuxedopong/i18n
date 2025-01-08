@@ -1,7 +1,6 @@
 import { LANGUAGE } from "../languages";
-import { TRANSLATION_MAP } from "../types";
 
-export const T_GENERAL: Record<string, TRANSLATION_MAP> = {
+export const T_GENERAL = {
   GENERAL_TOURNAMENT: {
     [LANGUAGE.EN]: "Tournament",
     [LANGUAGE.ES]: "Torneo",

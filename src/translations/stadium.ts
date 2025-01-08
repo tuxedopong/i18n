@@ -1,7 +1,6 @@
 import { LANGUAGE } from "../languages";
-import { TRANSLATION_MAP } from "../types";
 
-export const T_STADIUM: Record<string, TRANSLATION_MAP> = {
+export const T_STADIUM = {
   STADIUM_TAGLINE: {
     [LANGUAGE.EN]: "For Competition",
     [LANGUAGE.ES]: "Para competir",
