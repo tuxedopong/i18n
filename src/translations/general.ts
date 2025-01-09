@@ -60,6 +60,11 @@ export const T_GENERAL = {
     [LANGUAGE.ES]: "Partidos",
     [LANGUAGE.FR]: "Matchs",
   },
+  GENERAL_TEAM: {
+    [LANGUAGE.EN]: "Team",
+    [LANGUAGE.ES]: "Equipo",
+    [LANGUAGE.FR]: "Équipe",
+  },
   GENERAL_TEAMS: {
     [LANGUAGE.EN]: "Teams",
     [LANGUAGE.ES]: "Equipos",
