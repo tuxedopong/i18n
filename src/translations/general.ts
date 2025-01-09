@@ -56,4 +56,52 @@ export const T_GENERAL = {
   GENERAL_REQUIRED: {
     [LANGUAGE.EN]: "Required",
   },
+  GENERAL_LOGGED_IN_AS: {
+    [LANGUAGE.EN]: "Logged in as",
+  },
+  GENERAL_VERIFIED_AS: {
+    [LANGUAGE.EN]: "Verified as",
+  },
+  GENERAL_NO_RESULTS_FOUND: {
+    [LANGUAGE.EN]: "No results found",
+  },
+  GENERAL_SEARCH: {
+    [LANGUAGE.EN]: "Search",
+  },
+  GENERAL_FILTER_BY: {
+    [LANGUAGE.EN]: "Filter By",
+  },
+  GENERAL_SORT_BY: {
+    [LANGUAGE.EN]: "Sort By",
+  },
+  GENERAL_SORT_DIRECTION: {
+    [LANGUAGE.EN]: "Direction",
+  },
+  GENERAL_SORT_DIRECTION_ASC: {
+    [LANGUAGE.EN]: "Ascending",
+  },
+  GENERAL_SORT_DIRECTION_DSC: {
+    [LANGUAGE.EN]: "Descending",
+  },
+  GENERAL_FORMAT: {
+    [LANGUAGE.EN]: "Format",
+  },
+  GENERAL_SUBMIT: {
+    [LANGUAGE.EN]: "Submit",
+  },
+  GENERAL_SAVE: {
+    [LANGUAGE.EN]: "Save",
+  },
+  GENERAL_FIRST_NAME: {
+    [LANGUAGE.EN]: "First Name",
+  },
+  GENERAL_LAST_NAME: {
+    [LANGUAGE.EN]: "Last Name",
+  },
+  GENERAL_RATING: {
+    [LANGUAGE.EN]: "Rating",
+  },
+  GENERAL_CLUB: {
+    [LANGUAGE.EN]: "Club",
+  },
 };

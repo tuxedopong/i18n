@@ -24,6 +24,6 @@ First of all, thank you for contributing! You are helping organizers and players
 
 STADIUM is the competition platform for racket sports. We currently support table tennis, tennis, padel, badminton, pickleball, squash, and racketlon.
 
-https://usestadium.com
+Learn more at https://stadiumcompete.com/for-organizers
 
-https://stadiumcompete.com
+Check out the live platform at https://stadiumcompete.com
