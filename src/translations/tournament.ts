@@ -13,6 +13,9 @@ export const T_TOURNAMENT = {
     [LANGUAGE.EN]: "Report scores as",
     [LANGUAGE.FR]: "Rapporter les scores en tant que",
   },
+  TOURNAMENT_REPORTING_SCORES_AS: {
+    [LANGUAGE.EN]: "Reporting scores as",
+  },
   TOURNAMENT_ENTER_PIN_TO_REPORT: {
     [LANGUAGE.EN]: "Enter PIN code to report scores",
     [LANGUAGE.FR]: "Entrez le code PIN pour rapporter les scores",
@@ -33,6 +36,21 @@ export const T_TOURNAMENT = {
     [LANGUAGE.EN]: "Single Elimination",
     [LANGUAGE.FR]: "Élimination directe",
   },
+  TOURNAMENT_DRAW_SE_FULL_BRACKET: {
+    [LANGUAGE.EN]: "Full Bracket",
+  },
+  TOURNAMENT_DRAW_SE_ROUND_OF: {
+    [LANGUAGE.EN]: "Round of",
+  },
+  TOURNAMENT_DRAW_SE_QUARTERFINALS: {
+    [LANGUAGE.EN]: "Quarterfinals",
+  },
+  TOURNAMENT_DRAW_SE_SEMIFINALS: {
+    [LANGUAGE.EN]: "Semifinals",
+  },
+  TOURNAMENT_DRAW_SE_FINALS: {
+    [LANGUAGE.EN]: "Finals",
+  },
   TOURNAMENT_DRAW_IS_NOT_READY: {
     [LANGUAGE.EN]: "The draw is not ready yet",
     [LANGUAGE.FR]: "Le tirage n'est pas encore prêt",
@@ -40,6 +58,9 @@ export const T_TOURNAMENT = {
   TOURNAMENT_MATCH_FORMAT_FIRST_TO: {
     [LANGUAGE.EN]: "First to",
     [LANGUAGE.FR]: "Premier à",
+  },
+  TOURNAMENT_MATCH_FORMAT_WIN_BY: {
+    [LANGUAGE.EN]: "Win by",
   },
   TOURNAMENT_MATCH_FORMAT_BEST_OF: {
     [LANGUAGE.EN]: "Best of",

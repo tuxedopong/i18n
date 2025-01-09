@@ -24,14 +24,36 @@ export const T_GENERAL = {
     [LANGUAGE.ES]: "Tenis de Mesa",
     [LANGUAGE.FR]: "Tennis de table",
   },
+  GENERAL_EVENT: {
+    [LANGUAGE.EN]: "Event",
+    [LANGUAGE.FR]: "Événement",
+  },
+  GENERAL_EVENTS: {
+    [LANGUAGE.EN]: "Events",
+    [LANGUAGE.FR]: "Événements",
+  },
+  GENERAL_PLAYER: {
+    [LANGUAGE.EN]: "Player",
+    [LANGUAGE.ES]: "Jugador",
+    [LANGUAGE.FR]: "Joueur",
+  },
   GENERAL_PLAYERS: {
     [LANGUAGE.EN]: "Players",
     [LANGUAGE.ES]: "Jugadores",
     [LANGUAGE.FR]: "Joueurs",
   },
+  GENERAL_DRAW: {
+    [LANGUAGE.EN]: "Draw",
+    [LANGUAGE.FR]: "Tirage",
+  },
   GENERAL_DRAWS: {
     [LANGUAGE.EN]: "Draws",
     [LANGUAGE.FR]: "Tirages",
+  },
+  GENERAL_MATCH: {
+    [LANGUAGE.EN]: "Match",
+    [LANGUAGE.ES]: "Partido",
+    [LANGUAGE.FR]: "Match",
   },
   GENERAL_MATCHES: {
     [LANGUAGE.EN]: "Matches",
@@ -134,5 +156,26 @@ export const T_GENERAL = {
   GENERAL_CLUB: {
     [LANGUAGE.EN]: "Club",
     [LANGUAGE.FR]: "Club",
+  },
+  GENERAL_LOADING: {
+    [LANGUAGE.EN]: "Loading",
+  },
+  GENERAL_TABLE: {
+    [LANGUAGE.EN]: "Table",
+    [LANGUAGE.ES]: "Mesa",
+    [LANGUAGE.FR]: "Table",
+  },
+  GENERAL_TABLES: {
+    [LANGUAGE.EN]: "Tables",
+    [LANGUAGE.ES]: "Mesas",
+    [LANGUAGE.FR]: "Tables",
+  },
+  GENERAL_COURT: {
+    [LANGUAGE.EN]: "Court",
+    [LANGUAGE.ES]: "Cancha",
+  },
+  GENERAL_COURTS: {
+    [LANGUAGE.EN]: "Courts",
+    [LANGUAGE.ES]: "Canchas",
   },
 };

@@ -39,16 +39,6 @@ export const T = {
     [LANGUAGE.ES]: "Pasado",
     [LANGUAGE.FR]: "Passés",
   },
-  SEARCH_ANY_SPORT: {
-    [LANGUAGE.EN]: "Any Sport",
-    [LANGUAGE.ES]: "Cualquier deporte",
-    [LANGUAGE.FR]: "Tous",
-  },
-  SEARCH_ANYWHERE: {
-    [LANGUAGE.EN]: "Anywhere",
-    [LANGUAGE.ES]: "En cualquier lugar",
-    [LANGUAGE.FR]: "N'importe où",
-  },
 
   // View: Community
   COMMUNITY_PAGE_TITLE: {
