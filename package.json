@@ -1,6 +1,6 @@
 {
   "name": "@stadiumcompete/i18n",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Translation copy for STADIUM - the competition platform for racket sports.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
