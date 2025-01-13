@@ -209,7 +209,7 @@ export const T_GENERAL = {
   GENERAL_COURT: {
     [LANGUAGE.EN]: "Court",
     [LANGUAGE.ES]: "Cancha",
-	[Language.FR]: "Court",
+	[LANGUAGE.FR]: "Court",
   },
   GENERAL_COURTS: {
     [LANGUAGE.EN]: "Courts",
