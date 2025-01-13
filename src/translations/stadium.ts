@@ -15,7 +15,7 @@ export const T_STADIUM = {
     [LANGUAGE.EN]:
       "Help us keep it free - and get extra perks - with a monthly subscription (starting at just $2).",
     [LANGUAGE.ES]:
-      "Ayúdanos a mantenerlo gratis - y recibe extra beneficios - con una suscripción mensual (a partir de solamente $2).",
+      "Ayudanos a mantenerlo gratis - y recibe extras - con una suscripción mensual (a partir de solo $2 al mes).",
     [LANGUAGE.FR]:
       "Aidez-nous à le maintenir gratuit - et obtenez des avantages - avec un abonnement mensuel (à partir de seulement 2$).",
   },
