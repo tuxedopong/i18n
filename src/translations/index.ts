@@ -21,7 +21,7 @@ export const T = {
   },
   SEARCH_CTA_CREATE: {
     [LANGUAGE.EN]: "or, create your own",
-    [LANGUAGE.ES]: "o, crea la tuya",
+    [LANGUAGE.ES]: "o, crea tu misma",
     [LANGUAGE.FR]: "ou, créez la vôtre",
   },
   SEARCH_VIEWING: {
@@ -31,12 +31,12 @@ export const T = {
   },
   SEARCH_ACTIVE: {
     [LANGUAGE.EN]: "Active",
-    [LANGUAGE.ES]: "Activo",
+    [LANGUAGE.ES]: "Actuales",
     [LANGUAGE.FR]: "Actifs",
   },
   SEARCH_PAST: {
     [LANGUAGE.EN]: "Past",
-    [LANGUAGE.ES]: "Pasado",
+    [LANGUAGE.ES]: "Anteriores",
     [LANGUAGE.FR]: "Passés",
   },
 
