@@ -18,7 +18,7 @@ export const T_GENERAL = {
   },
   GENERAL_ANYWHERE: {
     [LANGUAGE.EN]: "Anywhere",
-	[LANGUAGE.ES]: "Donde sea",
+    [LANGUAGE.ES]: "Donde sea",
     [LANGUAGE.FR]: "Partout",
   },
   GENERAL_TABLE_TENNIS: {
@@ -28,12 +28,12 @@ export const T_GENERAL = {
   },
   GENERAL_EVENT: {
     [LANGUAGE.EN]: "Event",
-	[LANGUAGE.ES]: "Evento",
+    [LANGUAGE.ES]: "Evento",
     [LANGUAGE.FR]: "Événement",
   },
   GENERAL_EVENTS: {
     [LANGUAGE.EN]: "Events",
-	[LANGUAGE.ES]: "Eventos",
+    [LANGUAGE.ES]: "Eventos",
     [LANGUAGE.FR]: "Événements",
   },
   GENERAL_PLAYER: {
@@ -48,12 +48,12 @@ export const T_GENERAL = {
   },
   GENERAL_DRAW: {
     [LANGUAGE.EN]: "Draw",
-	[LANGUAGE.ES]: "Sorteo",
+    [LANGUAGE.ES]: "Sorteo",
     [LANGUAGE.FR]: "Tirage",
   },
   GENERAL_DRAWS: {
     [LANGUAGE.EN]: "Draws",
-	[LANGUAGE.ES]: "Sorteos",
+    [LANGUAGE.ES]: "Sorteos",
     [LANGUAGE.FR]: "Tirages",
   },
   GENERAL_MATCH: {
@@ -78,123 +78,123 @@ export const T_GENERAL = {
   },
   GENERAL_ENTRIES_OPEN: {
     [LANGUAGE.EN]: "Entries Open",
-	[LANGUAGE.ES]: "Inscripciones abiertas",
+    [LANGUAGE.ES]: "Inscripciones abiertas",
     [LANGUAGE.FR]: "Inscriptions ouvertes",
   },
   GENERAL_ENTRIES_CLOSED: {
     [LANGUAGE.EN]: "Entries Closed",
-	[LANGUAGE.ES]: "Inscripciones cerradas",
+    [LANGUAGE.ES]: "Inscripciones cerradas",
     [LANGUAGE.FR]: "Inscriptions fermées",
   },
   GENERAL_UPCOMING_EVENTS: {
     [LANGUAGE.EN]: "Upcoming Events",
-	[LANGUAGE.ES]: "Eventos por venir",
+    [LANGUAGE.ES]: "Eventos por venir",
     [LANGUAGE.FR]: "Événements à venir",
   },
   GENERAL_NO_UPCOMING_EVENTS: {
     [LANGUAGE.EN]: "No Upcoming Events",
-	[LANGUAGE.ES]: "Ningún evento por venir",
+    [LANGUAGE.ES]: "Ningún evento por venir",
     [LANGUAGE.FR]: "Aucun événement à venir",
   },
   GENERAL_VERIFY: {
     [LANGUAGE.EN]: "Verify",
-	[LANGUAGE.ES]: "Verifica",
+    [LANGUAGE.ES]: "Verifica",
     [LANGUAGE.FR]: "Vérifier",
   },
   GENERAL_DATE_OF_BIRTH: {
     [LANGUAGE.EN]: "Date of Birth",
-	[LANGUAGE.ES]: "Fecha de nacimiento",
+    [LANGUAGE.ES]: "Fecha de nacimiento",
     [LANGUAGE.FR]: "Date de naissance",
   },
   GENERAL_REQUIRED: {
     [LANGUAGE.EN]: "Required",
-	[LANGUAGE.ES]: "Requerido",
+    [LANGUAGE.ES]: "Requerido",
     [LANGUAGE.FR]: "Requis",
   },
   GENERAL_LOGGED_IN_AS: {
     [LANGUAGE.EN]: "Logged in as",
-	[LANGUAGE.ES]: "Iniciado sesión como"
+    [LANGUAGE.ES]: "Iniciado sesión como",
     [LANGUAGE.FR]: "Connecté en tant que",
   },
   GENERAL_VERIFIED_AS: {
     [LANGUAGE.EN]: "Verified as",
-	[LANGUAGE.ES]: "Verificado como",
+    [LANGUAGE.ES]: "Verificado como",
     [LANGUAGE.FR]: "Vérifié en tant que",
   },
   GENERAL_NO_RESULTS_FOUND: {
     [LANGUAGE.EN]: "No results found",
-	[LANGUAGE.ES]: "Ningún resultado",
+    [LANGUAGE.ES]: "Ningún resultado",
     [LANGUAGE.FR]: "Aucun résultat trouvé",
   },
   GENERAL_SEARCH: {
     [LANGUAGE.EN]: "Search",
-	[LANGUAGE.ES]: "Busca",
+    [LANGUAGE.ES]: "Busca",
     [LANGUAGE.FR]: "Recherche",
   },
   GENERAL_FILTER_BY: {
     [LANGUAGE.EN]: "Filter By",
-	[LANGUAGE.ES]: "Filtrar por",
+    [LANGUAGE.ES]: "Filtrar por",
     [LANGUAGE.FR]: "Filtrer par",
   },
   GENERAL_SORT_BY: {
     [LANGUAGE.EN]: "Sort By",
-	[LANGUAGE.ES]: "Ordenar por",
+    [LANGUAGE.ES]: "Ordenar por",
     [LANGUAGE.FR]: "Trier par",
   },
   GENERAL_SORT_DIRECTION: {
     [LANGUAGE.EN]: "Direction",
-	[LANGUAGE.ES]: "Dirección",
+    [LANGUAGE.ES]: "Dirección",
     [LANGUAGE.FR]: "Direction",
   },
   GENERAL_SORT_DIRECTION_ASC: {
     [LANGUAGE.EN]: "Ascending",
-	[LANGUAGE.ES]: "De menor a mayor",
+    [LANGUAGE.ES]: "De menor a mayor",
     [LANGUAGE.FR]: "Croissant",
   },
   GENERAL_SORT_DIRECTION_DSC: {
     [LANGUAGE.EN]: "Descending",
-	[LANGUAGE.ES]: "De mayor a menor",
+    [LANGUAGE.ES]: "De mayor a menor",
     [LANGUAGE.FR]: "Décroissant",
   },
   GENERAL_FORMAT: {
     [LANGUAGE.EN]: "Format",
-	[LANGUAGE.ES]: "Formato",
+    [LANGUAGE.ES]: "Formato",
     [LANGUAGE.FR]: "Format",
   },
   GENERAL_SUBMIT: {
     [LANGUAGE.EN]: "Submit",
-	[LANGUAGE.ES]: "Entregrar",
+    [LANGUAGE.ES]: "Entregrar",
     [LANGUAGE.FR]: "Soumettre",
   },
   GENERAL_SAVE: {
     [LANGUAGE.EN]: "Save",
-	[LANGUAGE.ES]: "Guardar",
+    [LANGUAGE.ES]: "Guardar",
     [LANGUAGE.FR]: "Enregistrer",
   },
   GENERAL_FIRST_NAME: {
     [LANGUAGE.EN]: "First Name",
-	[LANGUAGE.ES]: "Nombre",
+    [LANGUAGE.ES]: "Nombre",
     [LANGUAGE.FR]: "Prénom",
   },
   GENERAL_LAST_NAME: {
     [LANGUAGE.EN]: "Last Name",
-	[LANGUAGE.ES]: "Apellido",
+    [LANGUAGE.ES]: "Apellido",
     [LANGUAGE.FR]: "Nom de famille",
   },
   GENERAL_RATING: {
     [LANGUAGE.EN]: "Rating",
-	[LANGUAGE.ES]: "Calificación",
+    [LANGUAGE.ES]: "Calificación",
     [LANGUAGE.FR]: "Cote",
   },
   GENERAL_CLUB: {
     [LANGUAGE.EN]: "Club",
-	[LANGUAGE.ES]: "Club",
+    [LANGUAGE.ES]: "Club",
     [LANGUAGE.FR]: "Club",
   },
   GENERAL_LOADING: {
     [LANGUAGE.EN]: "Loading",
-	[LANGUAGE.ES]: "Cargando",
-	[LANGUAGE.FR]: "Chargement",
+    [LANGUAGE.ES]: "Cargando",
+    [LANGUAGE.FR]: "Chargement",
   },
   GENERAL_TABLE: {
     [LANGUAGE.EN]: "Table",
@@ -209,11 +209,11 @@ export const T_GENERAL = {
   GENERAL_COURT: {
     [LANGUAGE.EN]: "Court",
     [LANGUAGE.ES]: "Cancha",
-	[LANGUAGE.FR]: "Court",
+    [LANGUAGE.FR]: "Court",
   },
   GENERAL_COURTS: {
     [LANGUAGE.EN]: "Courts",
     [LANGUAGE.ES]: "Canchas",
-	[LANGUAGE.FR]: "Courts",
+    [LANGUAGE.FR]: "Courts",
   },
 };
