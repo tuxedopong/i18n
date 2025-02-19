@@ -3,22 +3,27 @@ import { LANGUAGE } from "../languages";
 export const T_GENERAL = {
   GENERAL_LOG_IN: {
     [LANGUAGE.EN]: "Log In",
+    [LANGUAGE.ES]: "Iniciar sesión",
     [LANGUAGE.FR]: "Connexion",
   },
   GENERAL_SIGN_UP: {
     [LANGUAGE.EN]: "Sign Up",
+    [LANGUAGE.ES]: "Inscribirse",
     [LANGUAGE.FR]: "Inscription",
   },
   GENERAL_EMAIL: {
     [LANGUAGE.EN]: "Email",
+    [LANGUAGE.ES]: "Correo electrónico",
     [LANGUAGE.FR]: "Courriel",
   },
   GENERAL_PASSWORD: {
     [LANGUAGE.EN]: "Password",
+    [LANGUAGE.ES]: "Contraseña",
     [LANGUAGE.FR]: "Mot de Passe",
   },
   GENERAL_SPORT: {
     [LANGUAGE.EN]: "Sport",
+    [LANGUAGE.ES]: "Deporte",
     [LANGUAGE.FR]: "Sport",
   },
   GENERAL_TOURNAMENT: {
@@ -53,22 +58,27 @@ export const T_GENERAL = {
   },
   GENERAL_BADMINTON: {
     [LANGUAGE.EN]: "Badminton",
+    [LANGUAGE.ES]: "Badminton",
     [LANGUAGE.FR]: "Badminton",
   },
   GENERAL_PADEL: {
     [LANGUAGE.EN]: "Padel",
+    [LANGUAGE.ES]: "Pádel",
     [LANGUAGE.FR]: "Padel",
   },
   GENERAL_PICKLEBALL: {
     [LANGUAGE.EN]: "Pickleball",
+    [LANGUAGE.ES]: "Pickleball",
     [LANGUAGE.FR]: "Pickleball",
   },
   GENERAL_SQUASH: {
     [LANGUAGE.EN]: "Squash",
+    [LANGUAGE.ES]: "Squash",
     [LANGUAGE.FR]: "Squash",
   },
   GENERAL_RACKETLON: {
     [LANGUAGE.EN]: "Racketlon",
+    [LANGUAGE.ES]: "Racketlon",
     [LANGUAGE.FR]: "Racketlon",
   },
   GENERAL_EVENT: {
@@ -275,6 +285,7 @@ export const T_GENERAL = {
   },
   GENERAL_NO_AFFILIATION: {
     [LANGUAGE.EN]: "No Affiliation",
+    [LANGUAGE.ES]: "Sin afiliación",
     [LANGUAGE.FR]: "Pas d'affiliation",
   },
 };

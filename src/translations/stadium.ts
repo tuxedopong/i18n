@@ -26,27 +26,33 @@ export const T_STADIUM = {
   },
   STADIUM_WHAT_IS_IT: {
     [LANGUAGE.EN]: "What is STADIUM?",
+    [LANGUAGE.ES]: "Que es STADIUM?",
     [LANGUAGE.FR]: "Qu'est-ce que STADIUM ?",
   },
   STADIUM_ONE_LINER: {
     [LANGUAGE.EN]: "the competition platform for racket sports",
+    [LANGUAGE.ES]: "la plataforma de competición para los deportes de raqueta",
     [LANGUAGE.FR]: "la plateforme de compétition pour les sports de raquette",
   },
   STADIUM_FOR_ORGANIZER_FEATURES: {
     [LANGUAGE.EN]: "For tournaments, leagues, membership systems, and more.",
+    [LANGUAGE.EN]: "Para los torneos, ligas, sistemas de membresía, y más.",
     [LANGUAGE.FR]: "Pour les tournois, ligues, systèmes d'adhésions et plus encore.",
   },
   STADIUM_MANAGE_ORGANIZER_NEEDS: {
     [LANGUAGE.EN]:
       "Manage all your competition needs in one simple, modern, and intuitive platform.",
+    [LANGUAGE.ES]: "Maneja todas tus necesidades en una plataforma simple, moderna, e intuitiva."
     [LANGUAGE.FR]: "Gérez tous vos besoins en compétition sur une plateforme simple, moderne et intuitive.",
   },
   STADIUM_FREE_TO_USE_NO_CC: {
     [LANGUAGE.EN]: "100% free to use - no credit card required.",
+    [LANGUAGE.ES]: "100% gratis - no se requiere tarjeta de crédito.",
     [LANGUAGE.FR]: "100% gratuit - aucune carte de crédit requise.",
   },
   STADIUM_LEARN_MORE: {
     [LANGUAGE.EN]: "Learn More",
+    [LANGUAGE.ES]: "Aprende más",
     [LANGUAGE.FR]: "En savoir plus",
   },
 
